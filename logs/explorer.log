@@ -1,0 +1,390 @@
+2022-07-25 22:03:43 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5576 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:03:43 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:03:43 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:03:45 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:03:45 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:03:45 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:03:45 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:03:45 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:03:45 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.28 seconds (JVM running for 3.358)
+2022-07-25 22:05:13 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5710 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:05:13 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:05:13 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:05:14 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:05:14 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:05:14 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:05:14 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:05:15 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:05:15 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.2 seconds (JVM running for 3.358)
+2022-07-25 22:05:27 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5790 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:05:27 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:05:27 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:05:28 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:05:28 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:05:28 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:05:28 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:05:28 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:05:29 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.208 seconds (JVM running for 3.283)
+2022-07-25 22:06:04 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5884 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:06:04 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:06:04 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:06:05 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:05 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:06:05 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:06:06 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:06:06 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:06 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.246 seconds (JVM running for 3.309)
+2022-07-25 22:06:29 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5970 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:06:29 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:06:29 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:06:30 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:30 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:06:30 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:06:30 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:06:31 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:31 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.32 seconds (JVM running for 3.491)
+2022-07-25 22:06:43 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6051 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:06:43 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:06:43 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:06:44 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:44 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:06:44 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:06:44 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:06:45 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:06:45 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.339 seconds (JVM running for 3.362)
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-2][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-2][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-2][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-1][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-3][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-3][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-4][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-4][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-5][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-5][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:07:20 [INFO ][nio-8080-exec-6][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:07:20 [DEBUG][nio-8080-exec-6][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:09:30 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6176 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:09:31 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:09:31 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:09:32 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:09:32 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:09:32 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:09:32 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:09:32 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:09:32 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.267 seconds (JVM running for 3.331)
+2022-07-25 22:09:50 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6266 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:09:50 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:09:50 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:09:51 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:09:51 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:09:51 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:09:51 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:09:51 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:09:52 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.208 seconds (JVM running for 3.197)
+2022-07-25 22:10:03 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6349 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:10:03 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:10:03 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:10:04 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:04 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:10:04 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:10:04 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:10:05 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:05 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.278 seconds (JVM running for 3.27)
+2022-07-25 22:10:11 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6429 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:10:11 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:10:11 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:10:12 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:12 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:10:12 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:10:12 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:10:12 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:13 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.361 seconds (JVM running for 3.395)
+2022-07-25 22:10:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6510 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:10:33 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:10:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:10:34 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:34 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:10:34 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:10:34 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:10:35 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:35 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.193 seconds (JVM running for 3.221)
+2022-07-25 22:10:42 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6601 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:10:42 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:10:42 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:10:43 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:43 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:10:43 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:10:43 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:10:44 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:10:44 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.117 seconds (JVM running for 3.118)
+2022-07-25 22:11:46 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6694 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:11:46 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:11:46 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:11:47 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:11:47 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:11:47 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:11:48 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:11:48 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:11:48 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.314 seconds (JVM running for 3.523)
+2022-07-25 22:12:06 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6779 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:12:06 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:12:06 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:12:07 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:07 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:12:07 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:12:07 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:12:07 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:07 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.184 seconds (JVM running for 3.303)
+2022-07-25 22:12:21 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6861 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:12:21 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:12:21 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:12:22 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:22 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:12:22 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:12:22 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:12:23 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:23 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.278 seconds (JVM running for 3.247)
+2022-07-25 22:12:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6949 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:12:33 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:12:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:12:34 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:34 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:12:34 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:12:34 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:12:34 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:12:34 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.387 seconds (JVM running for 3.414)
+2022-07-25 22:14:59 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7187 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:14:59 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:14:59 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:15:00 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:15:00 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:15:00 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:15:00 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:15:01 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:15:01 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.155 seconds (JVM running for 3.155)
+2022-07-25 22:16:04 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7297 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:16:04 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:16:04 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:16:05 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:16:05 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:16:05 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:16:05 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:16:06 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:16:06 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.402 seconds (JVM running for 3.49)
+2022-07-25 22:17:22 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7395 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:17:22 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:17:22 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:17:23 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:17:23 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:17:23 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:17:23 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:17:24 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:17:24 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.243 seconds (JVM running for 3.323)
+2022-07-25 22:18:36 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7498 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:18:36 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:18:36 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:18:38 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:18:38 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:18:38 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:18:38 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:18:38 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:18:38 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.227 seconds (JVM running for 3.291)
+2022-07-25 22:19:10 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7582 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:19:10 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:19:10 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:19:11 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:19:11 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:19:11 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:19:11 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:19:12 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:19:12 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.044 seconds (JVM running for 3.092)
+2022-07-25 22:25:20 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7838 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:25:20 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:25:20 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:25:21 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:25:21 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:25:21 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:25:22 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:25:22 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:25:22 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.665 seconds (JVM running for 3.973)
+2022-07-25 22:25:37 [INFO ][nio-8080-exec-4][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 22:25:37 [INFO ][nio-8080-exec-4][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:25:37 [DEBUG][nio-8080-exec-4][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:25:38 [INFO ][nio-8080-exec-3][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:25:38 [DEBUG][nio-8080-exec-3][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-25 22:26:55 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 7983 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-25 22:26:55 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-25 22:26:55 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-25 22:26:56 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:26:56 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-25 22:26:56 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-25 22:26:56 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-25 22:26:57 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-25 22:26:57 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.137 seconds (JVM running for 3.171)
+2022-07-25 22:27:10 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-25 22:27:10 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [15  ] : info logger
+2022-07-25 22:27:10 [DEBUG][nio-8080-exec-1][i.z.e.c.Home                            ] [16  ] : debug logger
+2022-07-29 21:59:17 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 1363 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 21:59:17 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 21:59:17 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 21:59:18 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 21:59:18 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 21:59:18 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 21:59:19 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 21:59:19 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-29 21:59:19 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.856 seconds (JVM running for 4.379)
+2022-07-29 23:22:00 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 4954 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 23:22:00 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 23:22:00 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 23:22:01 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:22:01 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 23:22:01 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 23:22:01 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 23:22:01 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:22:01 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.424 seconds (JVM running for 3.505)
+2022-07-29 23:22:10 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-29 23:22:10 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [23  ] : inside hello controller
+2022-07-29 23:22:58 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5110 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 23:22:58 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 23:22:58 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 23:22:59 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:22:59 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 23:22:59 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 23:22:59 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 23:22:59 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:22:59 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.188 seconds (JVM running for 3.228)
+2022-07-29 23:23:15 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-29 23:23:15 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [20  ] : inside hello controller
+2022-07-29 23:23:15 [INFO ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [12  ] : starting arch linux
+2022-07-29 23:23:15 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [18  ] : writing Data
+2022-07-29 23:23:15 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [13  ] : Storing Data
+2022-07-29 23:23:15 [WARN ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [17  ] : shutting down arch...
+2022-07-29 23:39:39 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5945 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 23:39:39 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 23:39:39 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 23:39:40 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:39:40 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 23:39:40 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 23:39:40 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 23:39:40 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Stopping service [Tomcat]
+2022-07-29 23:49:31 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6592 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 23:49:32 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 23:49:32 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 23:49:33 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:49:33 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 23:49:33 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 23:49:33 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 23:49:33 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:49:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.32 seconds (JVM running for 3.381)
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [20  ] : inside hello controller
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][i.z.e.d.O.Windows                       ] [15  ] : starting windows
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [18  ] : writing Data
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [13  ] : Storing Data
+2022-07-29 23:50:01 [INFO ][nio-8080-exec-1][i.z.e.d.O.Windows                       ] [22  ] : shutting down windows
+2022-07-29 23:50:31 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 6707 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-29 23:50:31 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-29 23:50:31 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-29 23:50:33 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:50:33 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-29 23:50:33 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-29 23:50:33 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-29 23:50:33 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-29 23:50:33 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.389 seconds (JVM running for 3.416)
+2022-07-29 23:50:38 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-29 23:50:38 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [20  ] : inside hello controller
+2022-07-29 23:50:38 [INFO ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [14  ] : starting arch linux
+2022-07-29 23:50:38 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [18  ] : writing Data
+2022-07-29 23:50:38 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [13  ] : Storing Data
+2022-07-29 23:50:38 [WARN ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [19  ] : shutting down arch...
+2022-07-30 01:23:46 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:23:46 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 01:23:46 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 01:23:47 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 01:23:47 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:52:02 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 3420 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 01:52:02 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 01:52:02 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 01:52:03 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:52:03 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 01:52:03 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 01:52:04 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 01:52:04 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Stopping service [Tomcat]
+2022-07-30 01:52:47 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 3490 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 01:52:47 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 01:52:47 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 01:52:48 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:52:48 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 01:52:48 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 01:52:48 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 01:52:49 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:52:49 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.34 seconds (JVM running for 3.556)
+2022-07-30 01:52:57 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 01:52:57 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [23  ] : inside hello controller
+2022-07-30 01:52:57 [INFO ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [14  ] : starting arch linux
+2022-07-30 01:52:57 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [18  ] : writing Data
+2022-07-30 01:52:57 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [13  ] : Storing Data
+2022-07-30 01:52:57 [WARN ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [19  ] : shutting down arch...
+2022-07-30 01:54:02 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 3677 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 01:54:02 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 01:54:02 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 01:54:03 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:54:03 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 01:54:03 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 01:54:03 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 01:54:04 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 01:54:04 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.686 seconds (JVM running for 3.769)
+2022-07-30 01:54:08 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 01:54:08 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [24  ] : inside hello controller
+2022-07-30 01:54:08 [INFO ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [14  ] : starting arch linux
+2022-07-30 01:54:08 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [18  ] : writing Data
+2022-07-30 01:54:08 [INFO ][nio-8080-exec-1][i.z.e.d.H.SSD                           ] [13  ] : Storing Data
+2022-07-30 01:54:08 [WARN ][nio-8080-exec-1][i.z.e.d.O.ArchLinux                     ] [19  ] : shutting down arch...
+2022-07-30 02:08:23 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 4552 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 02:08:23 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 02:08:23 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 02:08:24 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:08:24 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 02:08:24 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 02:08:24 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 02:08:24 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:08:25 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.386 seconds (JVM running for 3.434)
+2022-07-30 02:08:41 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 02:08:41 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [22  ] : inside hello controller
+2022-07-30 02:09:51 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 4872 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 02:09:51 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 02:09:51 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 02:09:52 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:09:52 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 02:09:52 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 02:09:52 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 02:09:53 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:09:53 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.574 seconds (JVM running for 3.717)
+2022-07-30 02:09:57 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 02:09:57 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [22  ] : inside hello controller
+2022-07-30 02:09:59 [INFO ][nio-8080-exec-3][i.z.e.c.Home                            ] [22  ] : inside hello controller
+2022-07-30 02:10:42 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 4979 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 02:10:42 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 02:10:42 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 02:10:43 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:10:43 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 02:10:43 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 02:10:44 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 02:10:44 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:10:44 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 2.432 seconds (JVM running for 3.555)
+2022-07-30 02:10:48 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 02:10:48 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [22  ] : inside hello controller
+2022-07-30 02:11:22 [INFO ][           main][i.z.e.ExplorerApplication               ] [55  ] : Starting ExplorerApplication using Java 17.0.3 on grid with PID 5077 (/home/pziq/IdeaProjects/explorer/target/classes started by pziq in /home/pziq/IdeaProjects/explorer)
+2022-07-30 02:11:23 [DEBUG][           main][i.z.e.ExplorerApplication               ] [56  ] : Running with Spring Boot v2.7.2, Spring v5.3.22
+2022-07-30 02:11:23 [INFO ][           main][i.z.e.ExplorerApplication               ] [634 ] : No active profile set, falling back to 1 default profile: "default"
+2022-07-30 02:11:25 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Initializing ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:11:25 [INFO ][           main][o.a.c.c.StandardService                 ] [173 ] : Starting service [Tomcat]
+2022-07-30 02:11:25 [INFO ][           main][o.a.c.c.StandardEngine                  ] [173 ] : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-07-30 02:11:25 [INFO ][           main][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring embedded WebApplicationContext
+2022-07-30 02:11:26 [INFO ][           main][o.a.c.h.Http11NioProtocol               ] [173 ] : Starting ProtocolHandler ["http-nio-8080"]
+2022-07-30 02:11:26 [INFO ][           main][i.z.e.ExplorerApplication               ] [61  ] : Started ExplorerApplication in 4.383 seconds (JVM running for 5.919)
+2022-07-30 02:12:10 [INFO ][nio-8080-exec-1][o.a.c.c.C.[.[.[/]                       ] [173 ] : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-30 02:12:10 [INFO ][nio-8080-exec-1][i.z.e.c.Home                            ] [23  ] : inside hello controller
+2022-07-30 02:12:11 [INFO ][nio-8080-exec-2][i.z.e.c.Home                            ] [23  ] : inside hello controller

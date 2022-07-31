@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Extra logging related to initialization of Log4j.
+ Set to debug or trace if log4j initialization is failing. -->
+<Configuration status="warn">
+    <Properties>
+        <Property name="root_path">logs</Property>
+        <Property name="CLR">{FATAL=BG_RED FG_BLACK, ERROR=BG_BLACK fg_red, WARN=bg_black fg_yellow, INFO=white, DEBUG=green, TRACE=black}</Property>
+        <Property name="LOG_PATTERN">
+            %highlight{%d{yy-MM-dd HH:mm:ss.SSS} [%-5p]}${CLR}%clr{[%-40.40c{1.}}{blue}%clr{ %-4.4L]}{blue}%highlight{ %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}}${CLR}
+            <!--%clr{${sys:PID}}{magenta} %clr{[%15.15t]}{faint} -->
+        </Property>
+    </Properties>
+
+<!--    <RollingFile
+            name="rollBySize"
+            fileName="${root_path}/explorer.log"
+            filePattern="${root_path}/explorer.%d{MM-dd-yyyy-HH-mm}.log"
+            ignoreExceptions="false">
+        <PatternLayout>
+            <Pattern>%d{yyyy-MM-dd HH:mm:ss} %p %m%n</Pattern>
+        </PatternLayout>
+        <Policies>
+            <OnStartupTriggeringPolicy />
+            <SizeBasedTriggeringPolicy size="5 MB" />
+        </Policies>
+    </RollingFile>-->
+
+    <Appenders>
+
+        <RollingFile
+                name="rollingFile"
+                fileName="${root_path}/explorer.log"
+                filePattern="${root_path}/explorer.%d{MM-dd-yyyy-HH-mm}.log"
+                ignoreExceptions="false">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%-5p][%15.15t][%-40.40c{1.}] [%-4.4L] : %m%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+            <DefaultRolloverStrategy max="5" />
+        </RollingFile>
+
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${LOG_PATTERN}" disableAnsi="false"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+
+        <Logger name="org.springframework" level="info" additivity="false">
+            <AppenderRef ref="console"/>
+        </Logger>
+        <Logger name="_org.springframework.web" level="info" additivity="false">
+            <AppenderRef ref="console"/>
+        </Logger>
+
+        <!-- Root logger referring to console appender -->
+        <Root level="debug" additivity="false">
+            <AppenderRef ref="console" />
+            <AppenderRef ref="rollingFile" />
+        </Root>
+    </Loggers>
+</Configuration>
