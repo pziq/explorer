@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T09:47:28.591Z" agent="5.0 (X11)" version="20.2.7" etag="F3p7bP63zexm7x_vK0KI" type="github"><diagram id="U9aJ36BoQTha3m_XF5wi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-28T10:19:51.507Z" agent="5.0 (X11)" etag="OxEEY4mYN2k5nti99jpu" version="20.2.7" type="github">
+  <diagram id="U9aJ36BoQTha3m_XF5wi" name="Page-1">
+    <mxGraphModel dx="994" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-1" value="Notifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-4" value="Billing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;order management&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-8" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;service registry/discovery+ Load balancer&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="100" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-10" value="Api gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2VdAvEeGYcuwFYFvH-ki-11" value="frontend" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
