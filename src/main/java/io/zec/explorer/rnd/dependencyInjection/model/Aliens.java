@@ -1,4 +1,4 @@
-package io.zec.explorer.model;
+package io.zec.explorer.rnd.dependencyInjection.model;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

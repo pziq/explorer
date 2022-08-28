@@ -1,6 +1,5 @@
-package io.zec.explorer.dependencyInjection.HDD;
+package io.zec.explorer.rnd.dependencyInjection.HDD;
 
-import io.zec.explorer.dependencyInjection.HDD.HardDisk;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Component;
 

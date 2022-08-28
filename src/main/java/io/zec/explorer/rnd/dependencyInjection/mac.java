@@ -1,7 +1,7 @@
-package io.zec.explorer.dependencyInjection;
+package io.zec.explorer.rnd.dependencyInjection;
 
-import io.zec.explorer.dependencyInjection.HDD.HardDisk;
-import io.zec.explorer.dependencyInjection.OS.Os;
+import io.zec.explorer.rnd.dependencyInjection.HDD.HardDisk;
+import io.zec.explorer.rnd.dependencyInjection.OS.Os;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;

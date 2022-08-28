@@ -1,4 +1,4 @@
-package io.zec.explorer.dependencyInjection;
+package io.zec.explorer.rnd.dependencyInjection;
 
 public interface Laptop {
 

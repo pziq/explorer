@@ -1,4 +1,4 @@
-package io.zec.explorer.dependencyInjection.OS;
+package io.zec.explorer.rnd.dependencyInjection.OS;
 
 public interface Os {
 
